@@ -1,12 +1,20 @@
+
+text file created on GitBub
+
 Change here...
 Updating with new line here
 Tortoise...
 Dots here...
 
 text file created on GitHub
+
 Updating with Bash...
 Update with tortoise...
+
 
 1
 2
 3
+
+another row from GitBash
+
